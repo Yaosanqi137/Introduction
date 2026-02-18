@@ -24,7 +24,7 @@ I'm 19-year-old now, and I come from Meizhou in Guangdong province of China. I l
 ## My GitHub Stats 🏆
 
 <div align="center">
-  <a herf=""><img src="https://github-readme-stats.vercel.app/api?username=Yaosanqi137" height="192px"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaosanqi137&layout=compact" height="192px"></a>
+  ![](https://pixel-profile.vercel.app/api/github-stats?username=yaosanqi137)
 </div>
 
 ---
